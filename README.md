@@ -1,6 +1,5 @@
 # Getting and Cleaning  Data  
-
------Course Project-----
+# ----- Course Project -----
 
 This repo contains the required scripts on the Getting and Cleaning Data Course Project
 
@@ -14,4 +13,5 @@ This repo contains the required scripts on the Getting and Cleaning Data Course 
 
 Then, the final result is shown in the file `Tidy_Data.txt`.
 
-This repo also contains a file that is the Code Book of our data.
+
+## PS. This repo also contains a file that is the Code Book of our data.
