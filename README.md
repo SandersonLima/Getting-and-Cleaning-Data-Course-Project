@@ -13,4 +13,4 @@ This repo contains the required scripts on the Getting and Cleaning Data Course 
 Then, the final result is shown in the file `Tidy_Data.txt`.
 
 
-## PS. This repo also contains a file that is the Code Book describing each variable and its values in the tidy data set (summarization of data variables) and an explaination of the code to process (tidy) the data.
+## PS. This repo also contains a file that is the Code Book describing each variable and its values in the tidy data set (summarization of data variables) and an explanation of the code to process (tidy) the data.
