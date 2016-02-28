@@ -12,4 +12,4 @@ each activity and each subject.
 Then, the final result is shown in the file Tidy_Data.txt.
 
 PS. This repo also contains a file that is the Code Book describing each variable and its values in the tidy data set
-(summarization of data variables) and an explaination of the code to process (tidy) the data.
+(summarization of data variables) and an explanation of the code to process (tidy) the data.
